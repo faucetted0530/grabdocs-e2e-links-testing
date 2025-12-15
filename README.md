@@ -65,5 +65,5 @@ End-to-End Testing & Software Quality Assurance
 
 ## 📌 Notes
 
-- This repository intentionally excludes Cypress binaries, `node_modules`, and environment configuration files.
+- This repository intentionally excludes advanced Cypress binaries, `node_modules`, and environment configuration files.
 - The focus is strictly on test logic and feature coverage, not tooling setup.
